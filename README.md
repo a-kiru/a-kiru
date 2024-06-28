@@ -1,0 +1,4 @@
+- Hi, I’m @a-kiru and you can call me Kangou which is my Japanese name. 
+- I am now learning (pure) mathematics at Zhejiang University.
+- You can communicate with me in English, Chinese or Japanese.
+- I will upload some notes of my classes. 
